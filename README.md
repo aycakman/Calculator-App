@@ -1,4 +1,4 @@
 # Calculator-App
 
-![Simulator Screenshot - iPhone 14 Plus - 2023-04-27 at 14 21 50](https://user-images.githubusercontent.com/81530201/234855125-9bbc1441-7407-4549-9e42-0dae7dae9cd5.png)
+![Simulator Screen Recording - iPhone 14 Plus - 2023-04-27 at 15 06 47](https://user-images.githubusercontent.com/81530201/234857163-d5071e1b-7096-4970-98d5-1c120938d0cb.gif)
 
